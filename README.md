@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [satyam pal]
+# 👋 Hi, I'm satyam pal
 
 I'm a backend developer and quant enthusiast passionate about building scalable trading systems, integrating financial data pipelines, and automating decision-making with precision. I thrive on solving real-world problems with clean, modular code and robust infrastructure.
 
