@@ -55,7 +55,7 @@ Modular Python package for technical indicators and strategy backtesting. Includ
 
 ## 📫 Contact
 
-- GitHub: [yourusername](https://github.com/yourusername)
+- GitHub: [yourusername](https://github.com/Sigmaaaaaaa)
 - LinkedIn: [Your Name](https://www.linkedin.com/in/satyam-pal-692614245/)
 - Email: pals89443@gmail.com
 
